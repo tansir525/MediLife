@@ -10,7 +10,7 @@ const Banner = () => {
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         </h6>
-        <button className="btn btn-danger mx-auto mb-5">Cintact Us</button>
+        <button className="btn btn-danger mx-auto mb-5">Contact Us</button>
       </div>
     </div>
   );
