@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Rancho&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+.parallax {
+    /* The image used */
+    background-image: url("https://images.unsplash.com/photo-1628348070889-cb656235b4eb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80");
+    /* Set a specific height */
+    min-height: 600px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card {
+    display: flex;
+    background-color: transparent;
+    height: 350px;
+    width: 550px;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.card h1 {
+    font-family: "Rancho", cursive;
+    font-weight: bolder;
+}
+
+.card h6 {
+    font-family: "Poppins", sans-serif;
+}
