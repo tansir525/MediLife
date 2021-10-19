@@ -1,4 +1,3 @@
-import { FaBeer } from "react-icons/fa";
 import {
   FcAdvance,
   FcBusinessman,
@@ -6,7 +5,6 @@ import {
   FcSurvey,
 } from "react-icons/fc";
 
-import { BsFillCalendarPlusFill } from "react-icons/bs";
 import React from "react";
 
 const Service = () => {
